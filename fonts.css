@@ -1,1 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
 
+@font-face {
+    font-family: 'Roblox';
+    src: url('https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Montserrat', 'Roblox', sans-serif;
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+button {
+    font-family: inherit;
+}
